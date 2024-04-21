@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/movie-service/static/css/main.31d6cfe0.css",
-    "main.js": "/movie-service/static/js/main.6f34f0a1.js",
+    "main.js": "/movie-service/static/js/main.d3ff1565.js",
     "index.html": "/movie-service/index.html",
-    "main.6f34f0a1.js.map": "/movie-service/static/js/main.6f34f0a1.js.map"
+    "main.d3ff1565.js.map": "/movie-service/static/js/main.d3ff1565.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.6f34f0a1.js"
+    "static/js/main.d3ff1565.js"
   ]
 }
