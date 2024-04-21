@@ -4,7 +4,7 @@ export default function Movie({id, mediumCoverImage, title,summary,genres}){
     return (<div>
         <img src={mediumCoverImage} alt={title}/>
         <h2>
-          <Link to={`/movie/${id}`}>{title}</Link>
+          <Link to={`${process.env.PUBLIC_URL}/movie/${id}`}>{title}</Link>
         </h2>
         <p>{summary}</p>
         <ul>
